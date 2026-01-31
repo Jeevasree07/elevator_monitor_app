@@ -49,6 +49,6 @@ ELCARE is a multi-agent AI system designed to assist **elderly individuals and b
 
 ```bash
 # Clone the repo
-git clone https://github.com/harini-manavalan/elcare-prototype
+git clone https://github.com/Jeevasree07/elcare-prototype
 
 # Open in VS Code or any editor and run the HTML file
